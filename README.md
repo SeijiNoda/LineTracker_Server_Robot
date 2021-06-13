@@ -1,4 +1,4 @@
-# LineTracker_Server_Robot
+# LineTracker Server Robot
 > ### Robot that follows a path and dodges obstacules while hosting a web socket server.
 > #### Developed in the fisr semester of 2021 for our final project in TI502 (Robotics).
 
