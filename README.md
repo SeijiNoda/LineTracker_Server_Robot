@@ -1,7 +1,7 @@
 # LineTracker_Server_Robot
 > ### Project developed in may/june 2021 for our finals in TI502
 
-<p>This is a robot made in the (Webots IDE)[https://cyberbotics.com/] and programmed in Python designed to have two functionalities:</p>
+<p>This is a robot made in the [https://cyberbotics.com/](Webots IDE) and programmed in Python designed to have two functionalities:</p>
 <ul>
   <li> <strong>Line Tracker</strong>:<br>
                The robot was programmed in order to follow the black path detected by 3 infrared sensors in front of the robot. It also can dodge obstacules that it finds <br>
