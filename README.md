@@ -1,5 +1,6 @@
 # LineTracker_Server_Robot
-> ### Project developed in may/june 2021 for our finals in TI502
+> ### Robot that follows a path and dodges obstacules while hosting a web socket server.
+> #### Developed in the fisr semester of 2021 for our final project in TI502 (Robotics).
 
 This is a robot made in the [Webots IDE](https://cyberbotics.com) and programmed in Python designed to have two functionalities:
 - <strong>Line Tracker</strong>:<br>
